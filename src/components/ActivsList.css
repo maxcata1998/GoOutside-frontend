@@ -1,0 +1,109 @@
+.center-title {
+  font-family: 'Aclonica', cursive;
+  text-shadow: .1em .1em .15em greenyellow;
+  font-size: 4.5rem;
+  font-weight: bolder;
+  position: absolute;
+  text-align: center;
+  color: lemonchiffon;
+  left: 50%;
+  margin-left: -28rem;
+  margin-top: -23rem;
+  -webkit-text-stroke-width: .5px;
+  -webkit-text-stroke-color: darkgreen;
+  z-index: 100;
+}
+
+.center-search {
+  position: relative;
+  left: 50%;
+  top: 50%;    
+  width: 30rem;
+  height: 10rem;
+  margin-left: -15rem;
+  padding-top: 7rem;
+  margin-top: -20rem;
+  opacity: 0.85;
+  display: flex;
+}
+
+.activRow {
+  margin-top: 15px;
+}
+
+.card {
+  margin-top: 15px;
+  /* height: 35rem; */
+}
+
+.activCardBody {
+  height: 20rem;
+}
+
+.activTags {
+  display: flex;
+  color: green!important;
+  font-family: "Architects Daughter", cursive;
+  font-size: 1.2em;
+}
+
+.activDescription {
+  overflow: hidden;
+  word-break: break-word;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 4; 
+  -webkit-box-orient: vertical;
+  max-height: 14rem;
+}
+
+.activsListCard {
+  width: 22em;
+}
+
+/* div.poster {
+  margin: 1em;
+} */
+
+.cardImage {
+  height: 15rem;
+}
+
+.smallPoster {
+  user-select: none;
+  height: 100%;
+  object-fit: cover;
+}
+
+.heart {
+  width: 40em;
+  height: 2em;
+  position: absolute;
+  filter: drop-shadow(1px 2px 3px black);
+}
+
+.heartFill {
+  fill: red;
+}
+
+.heartEmpty {
+  fill: white;
+}
+
+@media (max-width: 1000px) {
+  .center-title {
+    font-size: 4rem;
+    margin-left: -24.5rem
+  }
+}
+
+@media (max-width: 875px) {
+  .center-title {
+    margin-top: -30rem;
+  }
+
+  html{
+    font-size: 75%;
+  }
+}
+  
