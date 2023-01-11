@@ -24,8 +24,8 @@ Provide a platform for users who enjoy outdoor activities to explore and review 
 *   favorite page
 
 ## #Iter1:
-### Heroku App frontend: https://gooutside-frontend.herokuapp.com
-### Heroku App backend: https://gooutsides.herokuapp.com 
+### Heroku App frontend: https://gooutside-app-frontend.herokuapp.com/
+### Heroku App backend: https://gooutside-app-backend.herokuapp.com/
 
 
 
