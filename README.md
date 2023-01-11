@@ -3,6 +3,11 @@
 
 ### Project name: GoOutside
 
+## 
+### Heroku App frontend: https://gooutside-app-frontend.herokuapp.com/
+### Heroku App backend: https://gooutside-app-backend.herokuapp.com/
+
+
 ### Goal:
 
 Provide a platform for users who enjoy outdoor activities to explore and review nearby places of interest. Activity types may include hiking, camping, kayaking, etc.
@@ -23,9 +28,6 @@ Provide a platform for users who enjoy outdoor activities to explore and review 
 *   upload activity page
 *   favorite page
 
-## #Iter1:
-### Heroku App frontend: https://gooutside-app-frontend.herokuapp.com/
-### Heroku App backend: https://gooutside-app-backend.herokuapp.com/
 
 
 
